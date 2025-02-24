@@ -1,2 +1,2 @@
 # Text-to-Image-Convertor
-The Job Portal is a full-stack web application that allows users to search for jobs area-wise and domain-wise. It helps job seekers find relevant opportunities while enabling recruiters to post job listings and manage applications.
+A simple and efficient Text-to-Image Converter that transforms text input into visually appealing images. Built with MERN stack, Tailwind CSS, and Canvas API, this tool allows users to customize fonts, colors, backgrounds, and more. Perfect for generating social media graphics, watermarked text, and artistic typography.
